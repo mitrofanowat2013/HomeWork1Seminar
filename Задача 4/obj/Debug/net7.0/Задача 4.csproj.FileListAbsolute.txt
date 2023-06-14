@@ -1,0 +1,15 @@
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.csproj.AssemblyReference.cache
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.AssemblyInfoInputs.cache
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.AssemblyInfo.cs
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.csproj.CoreCompileInputs.cache
+D:\Домашняя работа\4495\HW seminar1\Задача 4\bin\Debug\net7.0\Задача 4.exe
+D:\Домашняя работа\4495\HW seminar1\Задача 4\bin\Debug\net7.0\Задача 4.deps.json
+D:\Домашняя работа\4495\HW seminar1\Задача 4\bin\Debug\net7.0\Задача 4.runtimeconfig.json
+D:\Домашняя работа\4495\HW seminar1\Задача 4\bin\Debug\net7.0\Задача 4.dll
+D:\Домашняя работа\4495\HW seminar1\Задача 4\bin\Debug\net7.0\Задача 4.pdb
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.dll
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\refint\Задача 4.dll
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.pdb
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\Задача 4.genruntimeconfig.cache
+D:\Домашняя работа\4495\HW seminar1\Задача 4\obj\Debug\net7.0\ref\Задача 4.dll
