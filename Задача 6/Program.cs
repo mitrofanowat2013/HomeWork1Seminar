@@ -13,6 +13,6 @@ if (numberIntOne % 2 == 0)
 }
 else
 {
-    Console.WriteLine("нет");  
+   Console.WriteLine("нет");  
     
 }    

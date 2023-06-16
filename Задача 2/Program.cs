@@ -4,25 +4,25 @@
 // a = -9 b = -3 -> max = -3
 // a = 3 b = 3 -> равны
 
-Console.WriteLine("Введите первое число:");
-string? numberStringOne = Console.ReadLine();
+ Console.WriteLine("Введите первое число");
+ Console.WriteLine("Введите второе число");
+ 
+       int a = Convert.ToInt32(Console.ReadLine());
+ 
+        int b = Convert.ToInt32(Console.ReadLine());
+ 
+        if (a > b) Console.WriteLine("{0} наибольшее число", a);
+ 
+        if (a < b) 
+        {
+            Console.WriteLine("{0} наибольшее число", b);  
+        }     
 
-Console.WriteLine("Введите второе число:");
-string? numberStrinTwo= Console.ReadLine();
+            else Console.WriteLine( "числа равны" ); 
 
-int numberIntOne = Convert.ToInt32(numberStringOne);
-int numberIntTwo = Convert.ToInt32(numberStrinTwo);
+ 
+      
 
-if (numberIntOne < numberIntTwo)
-{
-    Console.WriteLine("max");
-} 
-
-else
-{   
-   Console.WriteLine("равны");
-} 
-
-
-
+ 
+        
    
